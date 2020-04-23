@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CD04C1C7"
+    tools:context=".TripFragment" >
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="320dp"
+        android:layout_height="212dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="180dp"
+        android:text="PLANNED TRIP"
+        android:textSize="30dp" />
+</RelativeLayout>
